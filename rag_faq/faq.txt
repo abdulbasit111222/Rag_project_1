@@ -1,0 +1,6 @@
+"Q: What is Hugging Face?\n"
+            "A: Hugging Face is a company and community building open-source NLP tools and models.\n\n"
+"Q: How do I install Python packages?\n"
+            "A: Use pip or conda. Example: `pip install package-name` or `conda install package-name -c channel`.\n\n"
+"Q: What is RAG?\n"
+            "A: Retrieval-Augmented Generation (RAG) combines a retriever (embeddings + search) with a generator (LLM) to answer questions using external context."
